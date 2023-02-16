@@ -1,0 +1,35 @@
+﻿footer{
+    background-image:url("../Images/Footerbg");
+    height:500px;
+    clear:both;
+    background-position:50% 50%;
+}
+.social-footer:hover{
+    background-color:black;
+    opacity:0.5;
+}
+.social-footer{
+    width:33%;
+    float:left;
+    height:40%;
+}
+.center{
+    width:50px;
+    margin:auto;
+    padding-top:60px;
+}
+.end-footer h6{
+    font-size:1em;
+    font-weight:100;
+}
+.end-footer{
+    height:60%;
+    width:50%;
+    margin:auto;
+    clear:both;
+}
+.footer-logo{
+    width:200px;
+    margin:auto;
+    padding-top:130px;
+}

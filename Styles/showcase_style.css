@@ -1,0 +1,45 @@
+﻿#showcase1-container{
+    background-color:#f6f8fa;
+    padding-top:60px;
+    width:100%;
+    clear:both;
+
+}
+.showcase{
+    width:80%;
+    margin:auto;
+    overflow:auto;
+
+}
+.showcase1pic{
+    width:100%;
+}
+.col-2{
+    float:left;
+    width:48%;
+}
+.section-text{
+    padding-top:300px;
+    padding-left:50px;
+    width:70%;
+    margin:auto;
+}
+.section-title{
+    line-height:1.5em;
+    font-weight:100; 
+    font-family:Verdana;
+    font-color:#5d6660;
+}
+.showcase2pic{
+    width:100%;
+}
+.col-2-2{
+    float:right;
+    width:48%;
+}
+.section2-text{
+    padding-right:50px;
+    padding-top:300px;
+    width:70%;
+    margin:auto;
+}

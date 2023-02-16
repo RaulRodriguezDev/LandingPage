@@ -1,0 +1,32 @@
+﻿#feature-section{
+    padding-top:100px;
+}
+.feature-title
+{
+    width:70%;
+    text-align:center;
+    margin:auto;
+    font-weight:200;
+    line-height:1.5em;
+}
+.feature-content{
+    width:80%;
+    margin:auto;
+    padding-top:100px;
+
+}
+.feature-content .col-3 img{
+    width:90%;
+    padding:10px;
+    margin:auto;
+}
+.feature-content .col-3 h4{
+    text-align:center;
+}
+.feature-content .col-3 p{
+    text-align:center;
+    padding:20px;
+}
+.feature-content .col-3{
+    padding:2px;
+}

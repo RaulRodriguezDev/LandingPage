@@ -1,0 +1,53 @@
+﻿html{
+    font-family:"Lato","Helvetica neue","Arial",sans-serif;
+}
+body{
+    background-color:#ffffff;
+    margin:0;
+ 
+}
+p {
+    color: #5d6660;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Lato","Helvetica neue","Arial",sans-serif;
+}
+header{
+    height:80px;
+    background-color:#ffffff;
+}
+#header-container{
+    width:70%;
+    margin:auto;
+}
+.col-3{
+    width: 33%;
+    float:left;
+    font-family:Calibri;
+}
+#logo{
+    margin-top:35px;
+    width:150px;
+    height:20px;
+}
+.menu{
+    margin-top:32px;
+}
+.menu li{
+    list-style-type:none;
+    display:inline;
+    font-size:15px;
+    color:#8e8e8e;
+    padding-right:30px;
+}
+.getStartedBTN{
+    background-color:#6dc77a;
+    border-radius:28px;
+    text-decoration:none;
+    color:#ffffff;
+    padding:10px 26px;
+    margin-top:20px;
+    display:inline-block;
+    font-size:17px;
+    float:right;
+}
